@@ -20,3 +20,11 @@ Metas para janeiro:
 - [ ] Parte 1
 - [ ] Parte 2
 - [ ] Parte 3
+
+Task para continuar o aprimoramento:
+- [ ] Começar a estudar Java
+- [ ] Assistir ao curso
+- [ ] Faça os desafios de código, projeto
+- [ ] Refazer sozinho
+- [ ] Tirar dúvidas
+- [ ] Done! :tada:
