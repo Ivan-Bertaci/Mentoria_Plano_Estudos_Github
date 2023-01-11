@@ -6,6 +6,9 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 > *"Quem nuca errou, nunca tentou algo novo!"*
 
+
+[**Roadmap de Java** (Básico ao Avançado)](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
+
 <!-- Sempre consutar a página de sintaxe - https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 
 ## Curso ordenados por nível de dificuldade
